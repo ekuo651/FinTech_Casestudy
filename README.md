@@ -7,17 +7,18 @@ Founder drives a Trueno.
 ## Description
 
 ### Table of Contents
-1. [Company Information]()
-1. [Timeline]()
-1. [Landscape]()
-1. [Future]()
-1. [Location - New York City]()
+1. [Company Information](#Company-Information)
+1. [Timeline](#Timeline)
+1. [Landscape](#Landscape)
+1. [Future](#Landscape)
+1. [Location - New York City](#Location---New-York-City)
 
 
 
 ## Company Information
 * Company Name: **My Tech Co.**
 * Found in 2005
+
 ## Timeline
 1. Founded 2005
 1. Received seed funding 2007
