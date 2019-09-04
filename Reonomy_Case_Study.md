@@ -14,33 +14,28 @@
 
 
 ## Overview and Origin
-* Name of company: 
 
-Reonomy
+Reonomy is a New York City based commercial real estate data platform startup founded on March 1, 2013 and incorporated as Scryer, Inc. Charlie Oshman came up with the idea after hearing a friend who worked in commercial real estate describe how he conducted research. Oshman was surprised by how inefficient and manual the process was, and that there was no centralized database for an industry worth trillions of dollars. Coming from a software engineering background, Oshman thought that this was a market ripe for disruption, but he realized that he would need help on the financing side. 
 
-* When was the company incorporated? 
+He was introduced to Richard Sarkis later that year. Sarkis was a VP at McKinsey at the time and wanted to find his way back to his entrepreneurial roots. Sarkis remarked that he had thought their first meeting in a downtown Le Quotidien would be a quick, half hour conversation. Instead, he and Oshman spoke for hours and he phoned home telling his wife that their lives would be changed forever. Soon after, they hired Guillermo Sanchez, Reonomy’s first employee, as Director of Engineering and Harlan Milkove as VP of Engineering. Together, the four are the founders of Reonomy.
 
-March 1, 2013
+Sarkis currently serves as the company's CEO. The other three founders have since left the company; Milkove left in 2014, Sanchez left in 2016 and Oshman left his position in 2016 but still serves on the Board of Directors. 
 
-* Who are the founders of the company? 
+Reonomy obtained $1.5 million in seed funding on March 1, 2013 from FinTech Collective, KEC Ventures, Tom Falus, Jeff Parker, Primary Venture Partners and Resolute Ventures. Their series A round of funding successfully raised $3.7 million on March 10, 2014. This round was anchored by Bain Capital and included several of the original investors. During this period, Reonomy was working on its proof of concept. They used the New York City real estate landscape to build a working platform, providing it for free to end users to gather feedback.
 
-Reonomy was founded by Charlie Oshman and Richard Sarkis in 2013. The idea came from Oshman, who worked at 
+Their series B round raised $13 million on January 2, 2015, and was also lead by Bain Capital Group with some repeat investors and some new investors. With this round of funding, Reonomy focused on expanding the coverage of the platform to the rest of the United States. However, they quickly realized that with their current structure, they would have to build each region from the ground up. Reonomy decided to restructure their platform and build a univeral language called "Reonomy ID." Three months later, Reonomy decided to obtain a loan from Silicon Valley Bank for $4 million in lieu of another funding round. 
 
- The company is currently on its series C-II funding round. 
-
+The most recent round of funding is split into series C and series C-II, which collectively raised $46 million. With this, Reonomy is now considered one of the most well funded real estate fintech startups. The company leading this funding round was Sapphire Ventures. Reonomy's goals for this period are improving the user interface of its platform (and would like to use Sapphire Ventures' past experience on this front), expanding to foreign nations and increasing its subscriber base. Reonomy also plans to expand its workforce from 45 to 90 in 2019 to accomplish its goals. 
 
 ## Business Activities
 
-Reonomy was created to provide users with a reliable and centralized source of commercial real estate data. 
+Reonomy was intended for use by commercial real estate firms to cut down on the inefficiencies in conducting research. It provides users with a reliable and centralized source of commercial real estate data and neighborhood data. 
 
-The original intended user was real estate analysts who needed to conduct research on development sites or potential rental sites.
+At the time, and even now, reliable real estate data is notoriously difficult to gather. Many counties have digitized their property data, but most of them have different database structures. Also, it can be very challenging to even find a county's property data website. 
 
-* What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)
+Websites and platforms containing large amounts of real estate data do exist, but a lot of them rely on manual entry and the data can often times be unreliable. Also, when all else fails, one must physically visit their local county office to find a file. And that is just for finding the location and physical attributes for one property. Previously, to get an understanding of a neighborhood, one had to physically visit the area and assess the neighborhood. 
 
-Reonomy's platform is unique in that there has never been a centralized source of information on this scale in commercial real estate before. 
-
-They offer a unique service called TrueOwner. This service uses their platform to identify the owners of LLC's. 
-
+Reonomy seeks cut down on the time spent researching and verifying property data by using both public and private sources to supplement its data platform. Additionally, they use machine learning to spot inconsistencies or abnormalities in data to flag for review. They have also sought to reduce the legwork involved in understanding the characteristics of a neighborhood by quantifying a properties proximity to desirable features like grocery stores, public transportation, coffee shops, etc.
 
 **Technology**
 
@@ -50,22 +45,21 @@ Reonomy also uses AI and predictive analytics to determine which properties are 
 
 Having been on the market for 6 years, Reonomy's algorithms have evaluated billions of data points. The algorithms are used to spot abnormal data points, and flag it for further verification.
 
-Reonomy also uses proprietary machine learning algorithms on the private data sources provided by data partners to identify owners behind LLC's.
-
-
+Reonomy also uses proprietary machine learning algorithms on the private data sources provided by data partners to identify owners behind LLC's for their TrueOwner product.
 
 
 ## Landscape
 
-Reonomy is a Real Estate fintech company. They provide a platform that centralizes real estate information to facilitate more efficient real estate research. 
-
-
-Real estate reseach has come a long way in the last decade with the advent of websites like Redfin, Trulia, Streeteasy and Zillow, all companies who provide property records on their websites. However,all the above companies have a focus in residential real estate and not commercial. Trulia, StreetEasy and Zillow also focuses more on rentals while Redfin has more of a focus on buy and selling properties. 
+Reonomy is in the real estate domain. It provides a centralized source of commercial real estate data in a user friendly platform. Several platforms like this have been developed in the last decade like Redfin, Trulia, Streeteasy and Zillow. However, all of these companies focus on providing residential real estate, not commercial. Trulia, StreetEasy and Zillow also focuses more on apartment rentals while Redfin has more of a focus on buy and selling properties. CoStar Suite also has a platform aimed to serve the commercial real estate domain, but there are many issues with it. 
 
 ## Results
 **Impact**
 
-While the platform was originally meant for large commercial real estate corporations to streamline their research and due dilligence process. When the platform was conceived of, many thought that it would replace a large part of a broker's job, since the data provided could 
+While the platform was originally meant for large commercial real estate corporations to streamline their research and due dilligence process. When the platform was conceived of, many thought that it would replace a large part of a broker's job, since the data it provides makes a large part of the broker's job redundant. However, many brokers have found ways to leverage the Reonomy platform to increase their sales through more targeted leads. 
+
+Also, the TrueOwner product has allowed Reonomy to expand its targeted subscriber base far beyond traditional real estate professionals like lenders, banks, mortgage brokers and general brokers. Roofing companies, utility providers, energy companies and solar power installation companies have all found success using Reonomy to grow their business. 
+
+Accountants performing cost segregation studies have also been able to more efficiently identify potential clients. Cost segregation studies take advantage of the fact that certain assets have bonus depreciation or have a shorter depreciation schedule based on different types of usage. The study is done to reduce current tax obligations through reclassifying qualifying assets. The study is usually quite expensive, but can be very beneficial for very large scale construction projects. (As context, the potential tax benefits of my current company's $5M renovation project was not enough to justify a cost segreration study.) Using TrueOwner, accountants are able to more accurately determine the size of a company or individual's portfolio and better evaluate those who could benefit from a cost segregation study. 
 
 **Performance**
 
@@ -77,12 +71,6 @@ Lastly, in July, Reonomy finalized a deal with Black Knight, NYSE: BKI, a real e
 Sarkis, Reonomy CEO, expects these additions to significantly improve the reliability of Reonomy's existing data. 
 
 As a subscription sellilng company, Reonomy is also making significant headway. February 2019, Reonomy signed their largest client yet, [CBRE](https://www.bloomberg.com/quote/CBRE:US), one of the largest commercial real estate services company in the world ($17.58B market cap). Currently, they have contracts with 9 of the 10 leading commercial real estate firms. 
-
-Additionally, Reonomy offers a truly unique product called "TrueOwner." TrueOwner is advertised to "pierce the LLC veil" and allow users to find the owners of LLC's. This information is not available via public records and is very difficult to find even with extensive research. Reonomy is able to offer this service by leveraging the large datasets of its private data partners. 
-
-The TrueOwner product has allowed Reonomy to expand its targeted subscriber base far beyond traditional real estate professionals like lenders, banks, mortgage brokers and general brokers. Roofing companies, utility providers, energy companies and solar power installation companies have all found success using Reonomy to grow their business. 
-
-Accountants performing cost segregation studies have also been able to more efficiently identify potential clients. Cost segregation studies take advantage of the fact that certain assets have bonus depreciation or have a shorter depreciation schedule based on different types of usage. The study is done to reduce current tax obligations through reclassifying qualifying assets. The study is usually quite expensive, but can be very beneficial for very large scale construction projects. (As context, the potential tax benefits of my current company's $5M renovation project was not enough to justify a cost segreration study.) Using TrueOwner, accountants are able to more accurately determine the size of a company or individual's portfolio and better evaluate those who could benefit from a cost segregation study. 
 
 **Competitors**
 
@@ -100,30 +88,18 @@ Real Capital Analytics, a CRE data analytics firm who focuses on transactional d
 
 Credifi is another CRE data analytics startup that has gained traction, however they recently laid off a quarter of their staff after failing to garner interest from the financial sector. 
 
-Overall, no other company offers a CRE data platform that is as centralized, reliable and updated as Reonomy. Also, no other company offers a product that is even comparable to TrueOwner.
-
+Overall, no other company offers a CRE data platform that is as centralized, reliable and updated as Reonomy. Additionally, Reonomy product "TrueOwner" is truly unique. It is advertised to "pierce the LLC veil" and allow users to find the owners of LLC's. This information is not available via public records and is very difficult to find even with extensive research. This information is extremely valuable, and no other competitor has anything close. 
 
 
 ## Recommendations
-CRE as a data class
+Currently, Reonomy is focused on commercial real estate. Though, with Reonomy ID, there is no reason why they should not be able to expand into residential real estate. Their existing platform seems to be better built, and rely on more advanced technology than the competition (Redfin, Zillow & CoStar). Once they achieve more market penetration and increase their subscriber base, they can offer a free or cheaper version of their software to those only looking to purchase or rent for personal use. They can then collect the search history data and connect professional users/brokers to those clients.
 
-Expand into residential real estate
+Also, Reonomy could potentially take advantage of the emerging regulation technology (“regtech”) to integrate laws and policies into its platforms. High value markets like New York City, Seattle, San Francisco and Los Angeles have legislation that is trending towards increasing regulation. New York City just passed a landmark rent regulation bill that has already impacted the value of rent regulated properties. There are also whispers of a vacancy tax on commercial storefronts. All of these factors can heavily influence the value of property and the volatility of the market and should be properly accounted for in valuations. 
 
-Acquire PeerStreet or other real estate crowdfunding
-
-Incorporate real estate law, study high value areas like NYC and San Francisco
+Additionally, one of the goals of Reonomy was to transform commercial real estate into a more popular asset class for investment, by making the data surrounding it more accessible and reliable. To fully take advantage of this, Reonomy should consider acquiring a commercial real estate crowdfunding company like PeerStreet.
 
 
-* Why do you think that offering this product or service would benefit the company?
-
-* What technologies would this additional product or service utilize? 
-
-Reg Tech
-
-* Why are these technologies appropriate for your solution?
-
-
-
+# [**Reonomy - FinTech Case Study Slideshow**](https://docs.google.com/presentation/d/1vfHNrONPU0TwHqzuPNcM8bOJ55flp-PQFUSxDOeaIU0/edit?usp=sharing)
 
 ## Sources
 [How Two Millennials Launched Reonomy, A Real Estate Data Startup That Has Secured $22M In Funding](https://www.forbes.com/sites/viviennedecker/2016/03/31/the-millennials-behind-reonomy-are-renovating-the-commercial-real-estate-industry-through-tech/#792b66f77141)
